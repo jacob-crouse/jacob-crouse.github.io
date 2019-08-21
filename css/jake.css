@@ -1,0 +1,12 @@
+//Created by: Jacob Crouse, August 21st, 2019
+// This was made just to ammend the current styling of my website.
+
+.jake-list-item {
+    text-align: left;
+    color: red;
+    font-weight: bold;
+}
+
+#jake-list-item {
+    color: red;
+}
