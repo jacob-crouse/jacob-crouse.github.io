@@ -187,6 +187,13 @@ a {
   color: #BD5D38;
 }
 
+
+.jake-list-item {
+    text-align: left;
+    color: red !important;
+}
+
+
 a:hover, a:focus, a:active {
   color: #824027;
 }
